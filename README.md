@@ -47,5 +47,9 @@ This project is inspired by these smart people's work:
 ## Revision history
 * beta 1.0
 
+## License
+Apache License, Version 2.0
+
+
 
 
