@@ -35,8 +35,8 @@ Here is a step-by-step tutorial that helps you to make this program working on y
 
 
 ## About
-* author: Beicun Li (John Resse), member of the Institute of Power System Optimization, Guangxi University (the iPso).
-* contact: mister.resse@outlook.com
+* author: Beicun Li, member of the Institute of Power System Optimization, Guangxi University (the iPso).
+* contact: reese.laye@gmail.com
 
 
 ## Additional Informations
@@ -45,7 +45,7 @@ This project is inspired by these smart people's work:
 
 
 ## Revision history
-* beta 1.0
+* beta 0.9
 
 ## License
 Apache License, Version 2.0
